@@ -30,5 +30,4 @@ The project employs data from the **Understanding America Study (UAS)**, specifi
 ### Statistical Analysis
 * **Discrete Choice Duration Models**: Executed in Stata to determine how long public school starters "survive" in the public school system.
 * **Multinomial Logistic Regressions**: Executed in Stata to analyze the probability of choosing specific school types across the four phases.
-* **Random Forest Robustness**: Flexible machine learning models executed in Python to ensure consistency across methods.
-* **Data Visualization**: Alluvial diagrams and plots generated in R to visualize student movement.
+
