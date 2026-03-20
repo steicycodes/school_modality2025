@@ -1,6 +1,6 @@
 # The Switch: Determinants of Family School Modality Choices during the COVID-19 Pandemic
 
-This repository contains the reproduction code for an honors thesis examining K-12 enrollment transitions in the United States between 2020 and 2024. The research focuses on the movement between public, private, and homeschooling sectors during the pandemic period.
+This repository contains the code for an honors thesis examining K-12 enrollment transitions in the United States between 2020 and 2024. The research focuses on the movement between public, private, and homeschooling sectors during the pandemic period.
 
 ## Research Summary
 
